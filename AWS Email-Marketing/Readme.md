@@ -8,7 +8,7 @@ This cloud-based email marketing system automates sending personalized emails to
 
 ## Architecture
 
-![AWS SES Email Marketing Architecture](Images/architecture-diagram.png)
+![AWS SES Email Marketing Architecture](Images/Architecture_Diagram.png)
 
 The system workflow:
 1. Contact information is stored in CSV format in an S3 bucket
