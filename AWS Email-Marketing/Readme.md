@@ -103,18 +103,18 @@ The following IAM policy grants the Lambda function permissions to access S3 and
 
 ### S3 Bucket Configuration
 
-![S3 Bucket](/Images/Amazon_S3_Bucket.png)
+![S3 Bucket](Images/Amazon_S3_Bucket.png)
 ### Lambda Function Setup
 
-![Lambda Function](/Images/Amazon_Lambda_Code.png)
+![Lambda Function](Images/Amazon_Lambda_Code.png)
 
 ### SES Email Identity Configuration
 
-![Amazon SES](/Images/Amazon_SES_Identities.png)
+![Amazon SES](Images/Amazon_SES_Identities.png)
 
 ### Successful Test Run
 
-![Lambda_Test](/Images/Successful_testRun.png)
+![Lambda_Test](Images/Successful_testRun.png)
 
 ## Setup Instructions
 
